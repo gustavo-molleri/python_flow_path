@@ -62,6 +62,7 @@ class Stream(object):
 
 		print '  Extraindo Vertices...'
 		
+		
 		for feat in lyr:
 		##            print feat.GetField(0) # Codigo
 		##            print feat.GetField(3) # Long
